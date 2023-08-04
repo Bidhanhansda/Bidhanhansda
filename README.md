@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bidhanhansda&label=Profile%20views&color=0e75b6&style=flat" alt="bidhanhansda" /> </p>
 
-- 🔭 I’m currently working on [Mern Chat App](https://github.com/Bidhanhansda/Mychat-backend.git)
+- 🔭 I’m currently working on [Q-Poll](https://github.com/Bidhanhansda/Q-Poll)
 
 - 🌱 I’m currently learning **React Redux**
 
